@@ -4,6 +4,8 @@ A team-developed demo of a 2D restaurant management game, with story sequences a
 
 This repository presents the Unity portion of **动物餐车** (translated here as *Animal Food Truck*), a studio project demo I contributed to during my internship at **Luozhou Studio (螺舟工作室)**. The studio has permitted me to share this project publicly for my portfolio. This is a team project; the contributions described below are my responsibilities, not a claim of sole authorship of the game or its assets.
 
+Most of the demo's art assets are AI-generated and used solely for visual demonstration. Sound effects and music are sourced from free resources available online. This portfolio showcases my programming and implementation work; see [Asset Sources and Credits](#asset-sources-and-credits) for details.
+
 - **Contributor:** Kerui Bao
 - **Role:** Unity Gameplay / Client Development Intern
 - **Internship:** January - June 2026
@@ -82,8 +84,14 @@ This repository contains the Unity project's `Assets`, `Packages`, and `ProjectS
 
 The original workspace also contains separate FairyGUI authoring files, art source files, Excel configuration sheets, and generation tools. Those sibling projects are outside this repository. In particular, the Excel export menu depends on the original `Config` and `Tools` folders; regenerating configuration requires restoring that authoring workspace. Generated Unity-side files are included for inspection and use.
 
-## Credits and Permissions
+## Asset Sources and Credits
 
-Published with the studio's permission as an internship portfolio showcase. Game design, artwork, audio, and other team contributions remain credited to their respective creators and rights holders.
+- **Art:** Most art assets in this internship project are AI-generated and used solely to demonstrate the game's visual presentation.
+- **Sound effects and music:** Sourced from free resources available online, rather than original audio produced for this project. Any applicable attribution and usage terms remain those of the original sources.
+- **Team contributions:** This is a collaborative studio demo. My responsibilities are described in [My Contributions](#my-contributions); other team members' work is not presented as my own.
+
+## Permissions
+
+Published with the studio's permission as an internship portfolio showcase. This permission covers sharing the studio project and does not replace the terms of externally sourced assets or third-party components. Describing an online resource as free does not grant additional reuse or redistribution rights through this repository.
 
 Public availability is not a blanket license to reuse or redistribute studio content. No additional open-source license is granted by this repository. Third-party components remain subject to their own licenses and notices; the studio's permission does not replace those terms. Existing third-party notices are preserved, including the Spine runtime notices. Obtain any required third-party licenses before using the corresponding components.
