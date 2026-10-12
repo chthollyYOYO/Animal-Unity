@@ -1,0 +1,2822 @@
+[
+  {
+    "id": 1,
+    "groupId": 1001,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 8,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 2,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY"
+  },
+  {
+    "id": 3,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "你感到身体一直往下坠落。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 4,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "不知这种状况还会持续多久……？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 5,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "你感到疼痛？寒冷？饥饿？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 6,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "抑或是愤怒？恐惧？悲伤？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 7,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "都没有，那场事故来得太快了，没有给予你任何反应时间。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 8,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "现在……一切都是未知的。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 9,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 14,
+    "content": "下雨",
+    "nextContentId": 0,
+    "param1": "Music/yushen"
+  },
+  {
+    "id": 10,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/xiayu"
+  },
+  {
+    "id": 11,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "不可思议，我竟然发现了一个蓝哆……",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 12,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "老天，你看起来……有些不妙呢。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 13,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "谢天谢地，呼吸很平稳，让我再看看别处……",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 14,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "很好，没受伤……只是晕过去了。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 15,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "好了，小蓝哆。雨下得很大，我们得换个地方。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 16,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "一种柔软的、温暖的触感朝你袭来。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 17,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "哈哈，你比我想象中轻很多呢。坚持住！",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 18,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "脚步踩在草地上的声音",
+    "nextContentId": 0,
+    "param1": "Music/caicao"
+  },
+  {
+    "id": 19,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "太好了，前面有辆车停着，也许我能找到人救你。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 20,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "呃……破破烂烂的，没有主人的房车——行吧，正是我俩需要的！",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 21,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "脚踩木板嘎吱声",
+    "nextContentId": 0,
+    "param1": "Music/caidiban"
+  },
+  {
+    "id": 22,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "咳咳……灰尘好大！小蓝哆。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 23,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "躺下吧，你会好受点儿。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 24,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "唉……你怎么会露出这么痛苦伤心的表情？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 25,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "做噩梦了吗？梦里很辛苦吧？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 26,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "别怕，我在你身边呢。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 27,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "没关系的。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 28,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "小可怜虫，披上这件毯子会暖和一些。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 29,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "睡吧，睡吧，睡个好觉。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 30,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 15,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/yushen"
+  },
+  {
+    "id": 31,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 11,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY"
+  },
+  {
+    "id": 32,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY1"
+  },
+  {
+    "id": 33,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "DAY 1",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 34,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "鸟鸣",
+    "nextContentId": 0,
+    "param1": "Music/niaoming"
+  },
+  {
+    "id": 35,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "风声",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 36,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "睁开眼睛。",
+    "nextContentId": 1,
+    "param1": ""
+  },
+  {
+    "id": 37,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "再睡一会儿。",
+    "nextContentId": 2,
+    "param1": ""
+  },
+  {
+    "id": 38,
+    "groupId": 0,
+    "contentId": 1,
+    "speakerName": "",
+    "action": 9,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 39,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 12,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 40,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/zhaba"
+  },
+  {
+    "id": 41,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "眨眼睛",
+    "nextContentId": 21,
+    "param1": "blinking"
+  },
+  {
+    "id": 42,
+    "groupId": 0,
+    "contentId": 2,
+    "speakerName": "",
+    "action": 0,
+    "content": "怎么还没醒呢……雨也停了，果然还是送到医院好一些吧……",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 43,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "这或许是一个刚来到这儿的小蓝哆，总之，希望它醒来不会被我吓到。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 44,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "睁开眼睛。",
+    "nextContentId": 20,
+    "param1": ""
+  },
+  {
+    "id": 45,
+    "groupId": 0,
+    "contentId": 20,
+    "speakerName": "",
+    "action": 9,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 46,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/zhaba"
+  },
+  {
+    "id": 47,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 12,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 48,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "眨眼睛",
+    "nextContentId": 0,
+    "param1": "blinking"
+  },
+  {
+    "id": 49,
+    "groupId": 0,
+    "contentId": 21,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "太好啦！你醒了！",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 50,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "不、不、别怕，别怕……我没有恶意……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 51,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "你还有哪里不舒服么？",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 52,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "感觉不太好。",
+    "nextContentId": 3,
+    "param1": ""
+  },
+  {
+    "id": 53,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "感觉好极了。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 54,
+    "groupId": 0,
+    "contentId": 3,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "诶诶？！身体痛吗，还是什么？",
+    "nextContentId": 0,
+    "param1": "Art/song8"
+  },
+  {
+    "id": 55,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "不烫啊……你的身体应该没有大碍。",
+    "nextContentId": 22,
+    "param1": "Art/song4"
+  },
+  {
+    "id": 56,
+    "groupId": 0,
+    "contentId": 4,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "那我就放心了。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 57,
+    "groupId": 0,
+    "contentId": 22,
+    "speakerName": "",
+    "action": 1,
+    "content": "动物说话了！！！！",
+    "nextContentId": 5,
+    "param1": ""
+  },
+  {
+    "id": 58,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "问问它是个什么东西。",
+    "nextContentId": 6,
+    "param1": ""
+  },
+  {
+    "id": 59,
+    "groupId": 0,
+    "contentId": 5,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "动物、动物、动物，每个蓝哆都会说这句……",
+    "nextContentId": 0,
+    "param1": "Art/song10"
+  },
+  {
+    "id": 60,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "实话实说，哎，我应该对这件事免疫了。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 61,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "但是……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 62,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "这怎么可能免疫！我不能！！",
+    "nextContentId": 0,
+    "param1": "Art/song10"
+  },
+  {
+    "id": 63,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "听着，蓝哆，我有名字！我叫埃里奥。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 64,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "之后也不要把你见到的朋友叫做动物，他们可不会乐意。",
+    "nextContentId": 7,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 65,
+    "groupId": 0,
+    "contentId": 6,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "……",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 66,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "……",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 67,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "你这个问题，说实话，我觉得有点儿不太礼貌，你觉得呢？",
+    "nextContentId": 0,
+    "param1": "Art/song4"
+  },
+  {
+    "id": 68,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "听着，蓝哆，我有名字！我叫埃里奥。",
+    "nextContentId": 7,
+    "param1": "Art/song10"
+  },
+  {
+    "id": 69,
+    "groupId": 0,
+    "contentId": 7,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "算了，我应该先问问怎么称呼你，而不是上来就叫你蓝哆。",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 70,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "这件事情上我们扯平了。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 71,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "小花栗鼠",
+    "action": 0,
+    "content": "所以，你叫什么名字呢？",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 72,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "naming"
+  },
+  {
+    "id": 73,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "{playerName}，真不错！我想我们踏出了认识彼此的第一步。",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 74,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "问问它是谁",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 75,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "埃里奥就是埃里奥！既不是什么动物，也不是什么东西！",
+    "nextContentId": 0,
+    "param1": "Art/song10"
+  },
+  {
+    "id": 76,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "问问它什么是蓝哆",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 77,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "在我们这里，像你这样……呃……不知从哪儿冒出来的家伙，都叫蓝哆。",
+    "nextContentId": 0,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 78,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我猜测……你是刚来这儿的。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 79,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "不过，你比我想象中镇定多了……",
+    "nextContentId": 0,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 80,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我仍然有很多必要的事儿要和你说明一下。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 81,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这不是你的梦，当然更不是你得了精神疾病。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 82,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "首先，你仔细看着我。我是真实存在的，而且，没错，我会说话。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 83,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我——会——说——话。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 84,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "生下来没多久就跟父母学会了说话……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 85,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这没什么大不了的……就跟你一样。",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 86,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我知道我们长得不太一样。瞧我，尖尖的耳朵，大大的眼睛，有整齐的牙齿，能很好地品尝美食。",
+    "nextContentId": 0,
+    "param1": "Art/song1"
+  },
+  {
+    "id": 87,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "所以，我们一样。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 88,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "对了，请不要试图捏我的耳朵，我不喜欢这样，尾巴也不行。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 89,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "捏一捏。",
+    "nextContentId": 8,
+    "param1": ""
+  },
+  {
+    "id": 90,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "向他表示明白了。",
+    "nextContentId": 9,
+    "param1": ""
+  },
+  {
+    "id": 91,
+    "groupId": 0,
+    "contentId": 8,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "……",
+    "nextContentId": 0,
+    "param1": "Art/song10"
+  },
+  {
+    "id": 92,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "埃里奥，冷静冷静……把新来的蓝哆当作小孩子吧，他们还有很多东西需要学呢。",
+    "nextContentId": 10,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 93,
+    "groupId": 0,
+    "contentId": 9,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "真棒！",
+    "nextContentId": 10,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 94,
+    "groupId": 0,
+    "contentId": 10,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "无论如何，这是现实，千万别在我面前打自己巴掌，你会痛的。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 95,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我见过太多在我面前自扇巴掌的蓝哆，真把我吓坏了。",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 96,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "最重要的一点，你今后会一直生活在这儿。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 97,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 5,
+    "content": "咕咕的声音。",
+    "nextContentId": 0,
+    "param1": "Music/duzijiao"
+  },
+  {
+    "id": 98,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "你的肚子发出了咕咕的声音。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 99,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "饿了吧，我给你准备了一些吃的。来尝尝。",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 100,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 14,
+    "content": "咀嚼的声音。",
+    "nextContentId": 0,
+    "param1": "Music/jujue"
+  },
+  {
+    "id": 101,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "咀嚼咀嚼。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 102,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 15,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/jujue"
+  },
+  {
+    "id": 103,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "糟糕的口味使你忍不住吐了出来。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 104,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "！！",
+    "nextContentId": 0,
+    "param1": "Art/song8"
+  },
+  {
+    "id": 105,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "怎……怎么了？！",
+    "nextContentId": 0,
+    "param1": "Art/song8"
+  },
+  {
+    "id": 106,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "实话告诉它。",
+    "nextContentId": 11,
+    "param1": ""
+  },
+  {
+    "id": 107,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "告诉他自己不饿",
+    "nextContentId": 12,
+    "param1": ""
+  },
+  {
+    "id": 108,
+    "groupId": 0,
+    "contentId": 11,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我最不擅长的就是做菜了……",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 109,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "再吃点吧，吃下去会让你有力气的……",
+    "nextContentId": 13,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 110,
+    "groupId": 0,
+    "contentId": 12,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "谢谢你照顾我的感受，我明白这样的食物难以下咽。",
+    "nextContentId": 13,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 111,
+    "groupId": 0,
+    "contentId": 13,
+    "speakerName": "",
+    "action": 1,
+    "content": "问他怎么回去",
+    "nextContentId": 14,
+    "param1": ""
+  },
+  {
+    "id": 112,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "告诉他想留下来",
+    "nextContentId": 15,
+    "param1": ""
+  },
+  {
+    "id": 113,
+    "groupId": 0,
+    "contentId": 14,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "很遗憾，我的确不知道回去的方法。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 114,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "据我所知，蓝哆从来没有能回到原来地方的先例。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 115,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "但或许你能制造一个奇迹呢……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 116,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "在此之前，你只能先生存下去，不是吗？",
+    "nextContentId": 16,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 117,
+    "groupId": 0,
+    "contentId": 15,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "那就太好了。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 118,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我还挺喜欢你的，这样就能经常和你见面啦。",
+    "nextContentId": 16,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 119,
+    "groupId": 0,
+    "contentId": 16,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "在这儿生活下去……首先要有个地方住。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 120,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "很明显，现在我们已经有了。",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 121,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "再然后，就是保证自己每天有吃的……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 122,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 5,
+    "content": "咕咕的声音。",
+    "nextContentId": 0,
+    "param1": "Music/duzijiao"
+  },
+  {
+    "id": 123,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "埃里奥的肚子发出了咕咕的声音。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 124,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "把埃里奥带来的食物递给他。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 125,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "噢，不，我是说，谢谢，我其实不饿。",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 126,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "你发现埃里奥带了食材过来，而且这辆车居然有个小厨房。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 127,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "还是给埃里奥做顿饭吧。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 128,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "真没想到你会做饭！",
+    "nextContentId": 0,
+    "param1": "Art/song1"
+  },
+  {
+    "id": 129,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 13,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 130,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 9,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 131,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 11,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY1"
+  },
+  {
+    "id": 132,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "cooking"
+  },
+  {
+    "id": 133,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY1"
+  },
+  {
+    "id": 134,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 12,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 135,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "你拖着病躯给小花栗鼠做了一餐饭。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 136,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "噢！天哪！这是我吃过最美味的东西。",
+    "nextContentId": 0,
+    "param1": "Art/song1"
+  },
+  {
+    "id": 137,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "既然你得在这儿住下来，完全可以靠这个生活啊。",
+    "nextContentId": 0,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 138,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "你就是这么打算的。",
+    "nextContentId": 17,
+    "param1": ""
+  },
+  {
+    "id": 139,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "实际上，你打算以唱RAP为生。",
+    "nextContentId": 18,
+    "param1": ""
+  },
+  {
+    "id": 140,
+    "groupId": 0,
+    "contentId": 17,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "你一定能成为最棒的厨师！",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 141,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "嗝……我从没见过比你做饭还好吃的人。",
+    "nextContentId": 19,
+    "param1": "Art/song6"
+  },
+  {
+    "id": 142,
+    "groupId": 0,
+    "contentId": 18,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "那是什么……？",
+    "nextContentId": 0,
+    "param1": "Art/song4"
+  },
+  {
+    "id": 143,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 6,
+    "content": "你给小花栗鼠表演了一段RAP。",
+    "nextContentId": 0,
+    "param1": "Art/RAP"
+  },
+  {
+    "id": 144,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "……",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 145,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "挺不错的，{playerName}，说真的……嗯……",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 146,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "呃……但是这不能帮助我们有饭吃，对吗？",
+    "nextContentId": 0,
+    "param1": "Art/song5"
+  },
+  {
+    "id": 147,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我喜欢你这种爱开玩笑的性子，但我觉得你更适合做个厨师。",
+    "nextContentId": 19,
+    "param1": "Art/song"
+  },
+  {
+    "id": 148,
+    "groupId": 0,
+    "contentId": 19,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "感谢你的招待！我吃得很饱。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 149,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "埃里奥露出了幸福的表情，你感到很满足。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 150,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "笑了就对了。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 151,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "你昨晚看起来很不快乐呢……",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 152,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这让我很担心。",
+    "nextContentId": 0,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 153,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "你现在笑了，我就放心啦。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 154,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "你感谢埃里奥救了你。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 155,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "小事一桩！换做是你，也会这么做的，对吧？",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 156,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这辆房车虽然看起来旧旧的，但收拾收拾应该还不错。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 157,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "之后再把它改成一个餐厅……简直太棒啦。",
+    "nextContentId": 0,
+    "param1": "Art/song6"
+  },
+  {
+    "id": 158,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "那你先好好休息吧，明天我会再来看你的。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 159,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "说完，埃里奥便离开了。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 160,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "休息片刻，你感觉身体没有不适了，剩下的时间便把房车简单打扫了一下。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 161,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 13,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 162,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 8,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 163,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 4,
+    "content": "DAY2",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 164,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 9,
+    "content": "",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 165,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 12,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 166,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 11,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY1"
+  },
+  {
+    "id": 167,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY2"
+  },
+  {
+    "id": 168,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 5,
+    "content": "敲门声",
+    "nextContentId": 0,
+    "param1": "Music/qiaomensheng"
+  },
+  {
+    "id": 169,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/qiaomen"
+  },
+  {
+    "id": 170,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我是不是来得太早了？",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 171,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "天呐，这还是昨天我看到的旧房车吗？它看起来棒极了！",
+    "nextContentId": 0,
+    "param1": "Art/song6"
+  },
+  {
+    "id": 172,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这样看来你的小餐厅很快就能开起来了呀……",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 173,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "一个信封",
+    "nextContentId": 0,
+    "param1": "Art/xin"
+  },
+  {
+    "id": 174,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这是一点启动资金，希望能帮到你。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 175,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "还有就是……这个……",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 176,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "问它发生了什么事",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 177,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "……可能我接下来说的事会让你感到难过。",
+    "nextContentId": 0,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 178,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我比任何人都希望我们生活在一个和谐美好的世界，可事实如此。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 179,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我必须告诉你真相。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 180,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这儿有很多人，不太欢迎像你一样的……蓝哆。",
+    "nextContentId": 0,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 181,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "而有些甚至讨厌跟他们不一样的人。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 182,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "如果能无惧别人的目光生活下去，毋庸置疑，这很勇敢，令人钦佩。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 183,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "然而有些时候，我们不得不勉强自己……",
+    "nextContentId": 0,
+    "param1": "Art/song3"
+  },
+  {
+    "id": 184,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "……所以我带了件东西给你。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 185,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "出现头套",
+    "nextContentId": 0,
+    "param1": "Art/toutao"
+  },
+  {
+    "id": 186,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "可能戴上这个，大家会更容易接纳你。",
+    "nextContentId": 0,
+    "param1": "Art/song9"
+  },
+  {
+    "id": 187,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我十分希望你能顺利在此生活，思来想去还是把它带来了。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 188,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我希望你一切都好！",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 189,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "不知道这个头套大小合不合适，{playerName}，试试吧，我在门口等你。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 190,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "玩家带上头套",
+    "nextContentId": 0,
+    "param1": "Art/daitao"
+  },
+  {
+    "id": 191,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 11,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/DAY2"
+  },
+  {
+    "id": 192,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 13,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/fangche"
+  },
+  {
+    "id": 193,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "moving"
+  },
+  {
+    "id": 194,
+    "groupId": 1002,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "{playerName}，还挺适合你的嘛。现在没问题了，你去街上逛逛吧。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 195,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "如果要把小餐厅经营起来，你得购置一些需要的东西，对吧？",
+    "nextContentId": 0,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 196,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "冰箱里的食材还不够开店，去菜店再补一些吧。",
+    "nextContentId": 0,
+    "param1": "Art/song"
+  },
+  {
+    "id": 197,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "别忘了去书店把菜谱买齐，我在这儿等你回来。",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 198,
+    "groupId": 1003,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Panel_VegetableShop"
+  },
+  {
+    "id": 199,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/xuzhang/BGM-cai"
+  },
+  {
+    "id": 200,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 0,
+    "content": "……你好。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 201,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "……",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 202,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 0,
+    "content": "老板？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 203,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "哦，想买点什么？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 204,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 2,
+    "content": "买菜",
+    "nextContentId": 1,
+    "param1": "Panel_BuyVegetable"
+  },
+  {
+    "id": 205,
+    "groupId": 0,
+    "contentId": 4,
+    "speakerName": "",
+    "action": 1,
+    "content": "谈话",
+    "nextContentId": 2,
+    "param1": ""
+  },
+  {
+    "id": 206,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 3,
+    "content": "送礼",
+    "nextContentId": 3,
+    "param1": ""
+  },
+  {
+    "id": 207,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "退出",
+    "nextContentId": -1,
+    "param1": ""
+  },
+  {
+    "id": 208,
+    "groupId": 0,
+    "contentId": 1,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "要来点什么？",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 209,
+    "groupId": 0,
+    "contentId": 2,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "今天的蔬菜很新鲜。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 210,
+    "groupId": 0,
+    "contentId": 3,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "噢，谢了。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 211,
+    "groupId": 1004,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "{playerName}，真是大获丰收呢。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 212,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "你迫不及待想露一手了吧？",
+    "nextContentId": 0,
+    "param1": "Art/song1"
+  },
+  {
+    "id": 213,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "志在必得。",
+    "nextContentId": 1,
+    "param1": ""
+  },
+  {
+    "id": 214,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "还需要再熟悉熟悉。",
+    "nextContentId": 2,
+    "param1": ""
+  },
+  {
+    "id": 215,
+    "groupId": 0,
+    "contentId": 1,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "很有气势呢！",
+    "nextContentId": 3,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 216,
+    "groupId": 0,
+    "contentId": 2,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "不要灰心，我相信你能做到的。",
+    "nextContentId": 3,
+    "param1": "Art/song"
+  },
+  {
+    "id": 217,
+    "groupId": 0,
+    "contentId": 3,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我已经等不及让其他人也尝一尝了，快把店开起来吧。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 218,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "让我们去房车把东西都放出来吧。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 219,
+    "groupId": 10201,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Panel_Bookstore"
+  },
+  {
+    "id": 220,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/xuzhang/BGM-shu"
+  },
+  {
+    "id": 221,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "想好要把哪一本带走了吗？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 222,
+    "groupId": 0,
+    "contentId": 4,
+    "speakerName": "",
+    "action": 2,
+    "content": "买菜谱",
+    "nextContentId": 1,
+    "param1": "Panel_Recipe"
+  },
+  {
+    "id": 223,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "谈话",
+    "nextContentId": 2,
+    "param1": ""
+  },
+  {
+    "id": 224,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 3,
+    "content": "送礼",
+    "nextContentId": 3,
+    "param1": ""
+  },
+  {
+    "id": 225,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "退出",
+    "nextContentId": -1,
+    "param1": ""
+  },
+  {
+    "id": 226,
+    "groupId": 0,
+    "contentId": 2,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "每本书都在等一个懂它的人呢。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 227,
+    "groupId": 0,
+    "contentId": 3,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "好开心！谢谢你的礼物。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 228,
+    "groupId": 10301,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Panel_VegetableShop"
+  },
+  {
+    "id": 229,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/xuzhang/BGM-cai"
+  },
+  {
+    "id": 230,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "阿腾",
+    "action": 0,
+    "content": "要来点什么？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 231,
+    "groupId": 0,
+    "contentId": 4,
+    "speakerName": "",
+    "action": 2,
+    "content": "买菜",
+    "nextContentId": 0,
+    "param1": "Panel_BuyVegetable"
+  },
+  {
+    "id": 232,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "谈话",
+    "nextContentId": 2,
+    "param1": ""
+  },
+  {
+    "id": 233,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 3,
+    "content": "送礼",
+    "nextContentId": 3,
+    "param1": ""
+  },
+  {
+    "id": 234,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "退出",
+    "nextContentId": -1,
+    "param1": ""
+  },
+  {
+    "id": 235,
+    "groupId": 0,
+    "contentId": 2,
+    "speakerName": "菜店老板",
+    "action": 0,
+    "content": "今天的蔬菜很新鲜。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 236,
+    "groupId": 0,
+    "contentId": 3,
+    "speakerName": "菜店老板",
+    "action": 0,
+    "content": "噢，谢了。",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 237,
+    "groupId": 1005,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "咦？{playerName}，菜品好像不太够，这样可满足不了食客们呢。",
+    "nextContentId": 0,
+    "param1": "Art/song4"
+  },
+  {
+    "id": 238,
+    "groupId": 1006,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 7,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Panel_Bookstore"
+  },
+  {
+    "id": 239,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 10,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Music/xuzhang/BGM-shu"
+  },
+  {
+    "id": 240,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "啊……欢迎。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 241,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "是新面孔呢……刚搬来小镇的？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 242,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 0,
+    "content": "没错，我最近才搬过来。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 243,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "怪不得呢，只要来过书店的，我一定不会忘记他的模样。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 244,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "啊……这么说会不会有点奇怪？",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 245,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "我是说……欢迎来小镇。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 246,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "光顾着说话，都忘了自我介绍……这很不礼貌呢。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 247,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "总之，我好好介绍一下自己吧。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 248,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "我是这家书店的店长，你叫我玲就好啦。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 249,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "{playerName}",
+    "action": 0,
+    "content": "好的，玲。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 250,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "不过……我这人可能不太会招呼客人。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 251,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "嗯……你随意逛逛吧，不管是普通书籍还是菜谱都有……",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 252,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "玲",
+    "action": 0,
+    "content": "对了……还有件很重要的事，我的书店全天开放。",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 253,
+    "groupId": 0,
+    "contentId": 4,
+    "speakerName": "",
+    "action": 2,
+    "content": "买菜谱",
+    "nextContentId": 1,
+    "param1": "Panel_Recipe"
+  },
+  {
+    "id": 254,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "谈话",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 255,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 3,
+    "content": "送礼",
+    "nextContentId": 4,
+    "param1": ""
+  },
+  {
+    "id": 256,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "退出",
+    "nextContentId": -1,
+    "param1": ""
+  },
+  {
+    "id": 257,
+    "groupId": 1007,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "让我们一起熟悉下开店的流程吧？就把我当作你的客人！",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 258,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "嘿嘿，让我想想点什么菜比较好呢？",
+    "nextContentId": 0,
+    "param1": "Art/song7"
+  },
+  {
+    "id": 259,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "对啦，{playerName}，你先给我安排个座位吧！",
+    "nextContentId": 0,
+    "param1": "Art/song2"
+  },
+  {
+    "id": 260,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "快开始吧，我等不及享用美食啦！",
+    "nextContentId": 0,
+    "param1": "Art/song6"
+  },
+  {
+    "id": 261,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/jiaoxue1"
+  },
+  {
+    "id": 262,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/jiaoxue2"
+  },
+  {
+    "id": 263,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/jiaoxue3"
+  },
+  {
+    "id": 264,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 6,
+    "content": "",
+    "nextContentId": 0,
+    "param1": "Art/jiaoxue4"
+  },
+  {
+    "id": 265,
+    "groupId": 1008,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "这真是我吃过最美味的东西。",
+    "nextContentId": 0,
+    "param1": "Art/song1"
+  },
+  {
+    "id": 266,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "埃里奥",
+    "action": 0,
+    "content": "我已经等不及让其他人也尝一尝了，你可以去收银台开始营业了。",
+    "nextContentId": 0,
+    "param1": "Art/song11"
+  },
+  {
+    "id": 267,
+    "groupId": 1009,
+    "contentId": 0,
+    "speakerName": "猫猫",
+    "action": 0,
+    "content": "我刚刚在旁边看你很久了。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 268,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "是我没闻过的味道，新来的？",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 269,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "带着个头套，很可疑的样子。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 270,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "没人告诉过你想在这里开店得需要许可证么？",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 271,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "摇头",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 272,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "真是个不懂规矩的家伙。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 273,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "当然作为这个片区的管理我也不是什么死板的人。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 274,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "毕竟这个陈旧的地方确实需要一点新鲜的东西了。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 275,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "这样吧，由你来专门为我做一道菜吧。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 276,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "如果做的好吃，我就破例让你在这里开店。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 277,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 1,
+    "content": "狠狠点头",
+    "nextContentId": 0,
+    "param1": ""
+  },
+  {
+    "id": 278,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "不错，那么证明你的本事吧！",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 279,
+    "groupId": 1010,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "你这家伙，真是出乎所料",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 280,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "有这样的水平确实可以在这里开店。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 281,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "测试版到这里结束了。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  },
+  {
+    "id": 282,
+    "groupId": 0,
+    "contentId": 0,
+    "speakerName": "",
+    "action": 0,
+    "content": "感谢你的游玩。",
+    "nextContentId": 0,
+    "param1": "Art/mao"
+  }
+]

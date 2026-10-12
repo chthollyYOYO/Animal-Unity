@@ -1,0 +1,43 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE and local version-control data
+.vs/
+.vsconfig
+.idea/
+.svn/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local credentials and signing material
+.env
+.env.*
+*.keystore
+*.jks
+*.pfx
+*.p12
+*.pem
+
+# Restore Odin separately with an appropriate license.
+/Assets/Plugins/Sirenix/
+/Assets/Plugins/Sirenix.meta
+/Assets/Editor/Thirdparty/Odin Inspector/
+/Assets/Editor/Thirdparty/Odin Inspector.meta

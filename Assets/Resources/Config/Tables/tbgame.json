@@ -1,0 +1,80 @@
+[
+  {
+    "none": 0,
+    "SecondsPerTime": [
+      300,
+      300,
+      300
+    ],
+    "EpMax": 100,
+    "EpCostPerSecond": 30,
+    "EpRecoverPerSecond": 20,
+    "CleanupMillisecond": 1000,
+    "CookProficiency": [
+      15,
+      12,
+      10,
+      7
+    ],
+    "FoodshopOpenTime": [
+      1,
+      2
+    ],
+    "FoodshopLevelUpNeed": [
+      100,
+      200
+    ],
+    "FoodshopSpecialFoodSpecy": [
+      1,
+      2,
+      3
+    ],
+    "FoodshopSpecialFoodNumber": [
+      5,
+      10,
+      15
+    ],
+    "FoodshopDiscount": [
+      80,
+      70,
+      50
+    ],
+    "FoodshopDiscountSpecy": [
+      2,
+      4,
+      4
+    ],
+    "FoodshopPremium": [
+      150,
+      120,
+      100
+    ],
+    "FoodshopPremiumSpecy": [
+      2,
+      2,
+      0
+    ],
+    "BookstoreOpenTime": [
+      1,
+      2
+    ],
+    "BookstoreLevelUpNeed": [
+      100,
+      200
+    ],
+    "BookstoreReadSpice": 10,
+    "BookstoreReadIncome": [
+      10,
+      20,
+      30
+    ],
+    "PropshopOpenTime": [
+      2
+    ],
+    "PropshopLevelUpNeed": [
+      100,
+      200
+    ],
+    "DinerEatingTime": 5
+  }
+]

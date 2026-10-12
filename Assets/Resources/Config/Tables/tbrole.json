@@ -1,0 +1,101 @@
+[
+  {
+    "id": 101,
+    "name": "女主",
+    "desc": "",
+    "icon": "ui://Role/Role_101",
+    "spine": "Spine/Role_101",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 201,
+    "name": "小羊",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 202,
+    "name": "金毛妹妹",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 301,
+    "name": "丸毒子",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 302,
+    "name": "猪猪",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 303,
+    "name": "北极燕鸥",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 304,
+    "name": "棕熊",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 305,
+    "name": "老鼠",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 306,
+    "name": "鲨鱼",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "",
+    "sit": ""
+  },
+  {
+    "id": 307,
+    "name": "鹿",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "Art/NPC1_walk",
+    "sit": "Art/NPC1_sit"
+  },
+  {
+    "id": 308,
+    "name": "松鼠",
+    "desc": "",
+    "icon": "",
+    "spine": "",
+    "walk": "Art/song0",
+    "sit": "Art/song0"
+  }
+]
