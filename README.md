@@ -1,8 +1,8 @@
-# Animal Unity - Restaurant Management
+# Animal Food Truck (动物餐车)
 
-A 2D restaurant management game with story sequences and boss encounters featuring simple rhythm-based quick-time events (QTEs).
+A team-developed demo of a 2D restaurant management game, with story sequences and boss encounters featuring simple rhythm-based quick-time events (QTEs).
 
-This repository presents the Unity portion of a studio project I contributed to during my internship at **Luozhou Studio (螺舟工作室)**. The studio has permitted me to share this project publicly for my portfolio. This is a team project; the contributions described below are my responsibilities, not a claim of sole authorship of the game or its assets.
+This repository presents the Unity portion of **动物餐车** (translated here as *Animal Food Truck*), a studio project demo I contributed to during my internship at **Luozhou Studio (螺舟工作室)**. The studio has permitted me to share this project publicly for my portfolio. This is a team project; the contributions described below are my responsibilities, not a claim of sole authorship of the game or its assets.
 
 - **Contributor:** Kerui Bao
 - **Role:** Unity Gameplay / Client Development Intern
